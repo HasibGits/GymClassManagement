@@ -36,7 +36,7 @@ This Laravel-based web application is designed for managing trainers, scheduling
 
 git clone https://github.com/your-username/laravel-trainer-management.git
 cd laravel-trainer-management
-Step 2: Install dependencies
+### Step 2: Install dependencies
 Install PHP dependencies:
 
 Visit http://localhost:8000 in your browser to see the application running.
